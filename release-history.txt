@@ -1,0 +1,39 @@
+=== 16.03.2017 ===
+static			2017031601
+dubbo-trade		+ +
+dubbo-schedule	+
+
+appMainsite		+ + +
+appMember		+ + +
+appMobile		+ + - - + <-- back to step 1
+appProduct		+ + +
+appTrade		+ + - - + <-- back to step 1
+appMerchant		+ + +
+
+== 17.03.2017 ==
+appMainsite		+ + +
+
+== 20.03.13 ==
+static			2017032001
+appMainsite		+ + +
+appTrade		+ + +
+appMobile		+ + +
+
+== 22.03.2017 ==
+static			2017032201 2017032202
+dubbo-platform	+ + |
+dubbo-trade		+ + |
+dubbo-schedule	+ + |
+op	 			+ + |
+mainsite 		+ + - + + - + + |
+member			+ + |
+mobile 			+ + - |
+trade			+ + - + + |
+merchant		+ + |
+apiSeller		+ + |
+apiAndorid		+ + - + + |
+
+== 24.03.2017 ==
+static			2017032401
+appMainsite		+ + + |
+appMobile		+ + 

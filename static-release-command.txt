@@ -1,0 +1,2 @@
+first step static release : rm -rf /var/tmp/nginx/proxy_cache_path/*
+tar -xf static20170324.tar.gz -C /blj/s2.blanja/

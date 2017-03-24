@@ -1,0 +1,6 @@
+mp2
+  commons 
+	version.css version.js
+configs
+  solr_config_new
+    

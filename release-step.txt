@@ -1,0 +1,6 @@
+pastikan platform sudah built project
+
+admin/management system = OP
+product = item
+mainsite = www
+merchantools = shop
