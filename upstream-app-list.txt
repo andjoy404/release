@@ -1,6 +1,10 @@
-upstream_admin.conf	appOp
-upstream_api.conf	appApiSeller
-upstream_appi.conf	appApiAndroid
-upstream_chat.conf	appLiveChat
-upstream_item.conf	appProduct
-upstream_lightspeed	appApiMobile
+upstream_www.conf			appMainsite
+upstream_admin.conf			appOp
+upstream_api.conf			appApiSeller
+upstream_appi.conf			appApiAndroid
+upstream_mapi.conf			appApiAndroid
+upstream_chat.conf			appLiveChat
+upstream_item.conf			appProduct
+upstream_trade.conf			appTrade
+upstream_lightspeed.conf	appApiMobile
+upstream_www.conf			appMainsite
