@@ -1,10 +1,11 @@
-mainsite4	10.11.14.44	/blj/app-mainsite
-product4	10.11.14.14	/home/vmuser
-trade3		10.11.14.23	/blj/app-trade
-member3		10.11.14.33	/blj/app-member
+mainsite4	10.11.14.44		/blj/app-mainsite
+product4	10.11.14.14		/home/vmuser
+trade3		10.11.14.23		/blj/app-trade
+member3		10.11.14.33		/blj/app-member
 mobile3		10.11.18.102	/blj/app-mobile
-merchant3	10.11.14.76	/blj/app-merchanttools
-static + proxy	10.11.12.18	/blj
+merchant3	10.11.14.76		/blj/app-merchanttools
+op3			10.11.14.63		/blj/app-op
+static + proxy	10.11.12.18	/home/vmuser
 
 appserver
 script

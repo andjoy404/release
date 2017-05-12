@@ -1,0 +1,7 @@
+mp2_production/commons/datacache.address
+10.11.10.31:11211,10.11.10.32:11211,10.11.10.33:11211,10.11.10.36:11211,10.11.10.37:11211
+
+mp2_production/provider/platform/mogondb.host
+10.11.10.13:27017,10.11.10.14:27017,10.11.10.15:27017
+mp2_production/provider/trade/mogondb.host
+10.11.10.13:27017,10.11.10.14:27017,10.11.10.15:27017

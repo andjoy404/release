@@ -36,4 +36,93 @@ apiAndorid		+ + - + + |
 == 24.03.2017 ==
 static			2017032401
 appMainsite		+ + + |
-appMobile		+ + 
+appMobile		+ + |
+
+== 07.03.2017 ==
+static		2017040701
+mainsite 	+ + + |
+trade 		+ + + |
+mobile 		+ + + |
+apiandroid 	+ + + |
+
+== 10.04.2017 ==
+static 		2017041001
+mainsite 	+ 
+member 		+
+product  	+
+trade 		+
+mobile 		+
+
+== 12.04.2017 ==
+static 			2017041201
+dubbo-platform	+ +
+dubbo-product	+ +
+dubbo-schedule
+mainsite 		+ + + +
+op 				+ + + +
+member 			+ + + +
+mobile 			+ + + +
+product 		+ + + +
+trade 			+ + + +
+merchant 		+ + + +
+apiAndroid 		+ + + +
+apiSeller 		    + +
+
+== 13.03.2017 ==
+static			2017041301
+member 			+ + + + + +
+
+== 18.03.2017 ==
+static			2017041801
+dubbo-trade 	+
+mainsite 		+ + + + +
+member 			+ + + + +
+product 		+ + + + +
+trade 			+ + + + +
+mobile 			+ + + + +
+merchant 		+ + + + +
+op				+ + + + +
+api-android 	+ + + + +
+
+==  26.03.2017 ==
+dubbo-trade		+ +
+op 				+ + + +
+mobile 			+ +
+
+== 27.04.2017 ==
+static			
+op 				+ + + +
+mobile 			+ 
+
+==  03.05.2017 ==
+static			2017050301
+dubbo-trade		+ +
+op				+ + + +
+mainsite 		+ + + +
+member 			+ + + +
+mobile 			+ + + + | + + + +
+product 		+ + + +
+trade 			+ + + + | + + + +
+merchant 		+ + + +
+api-android 	+ + + +
+api-seller		+ + + +
+
+== 05.05.2017 ==
+static			2017050501
+op				+ - |
+Mainsite 		+ - |
+Member 			+ - |
+Product 		+ - |
+Trade
+Mobile
+Merchant 
+
+== 08.05.2017 ==
+static			2017050801	2017050802
+op				+ + + +
+Mainsite 		+ + + +
+Member 			+ + + +
+Product 		+ + + +
+Trade 			+ + + +
+Mobile 			+ + + +
+Merchant 		+ + + +
