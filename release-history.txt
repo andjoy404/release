@@ -114,7 +114,7 @@ Mainsite 		+ - |
 Member 			+ - |
 Product 		+ - |
 Trade
-Mobile
+Mobilep
 Merchant 
 
 == 08.05.2017 ==
@@ -126,3 +126,1356 @@ Product 		+ + + +
 Trade 			+ + + +
 Mobile 			+ + + +
 Merchant 		+ + + +
+
+== 12.05.2017 ==
+app-api-android		+ + + +
+
+== 16.05.2017 ==
+static			2017051601
+dubbo-schedule	+
+dubbo-trade		+ +
+op 				+ + + + |
+mainsite 		+ + + + |
+member 			+ + + + |
+mobile 			+ + + + |
+product 		+ + + + |
+trade 			+ + + + |
+merchant 		+ + + + |
+
+== 17.05.2017 ==
+dubbo-trade		+ +
+dubbo-product	+ +
+
+== 18.05.2017 ==
+static			2017051801
+dubbo-schedule	+
+mainsite 		+ + + + |
+trade 			+ + + + |
+api-android 	+ + + + |
+mobile			+ + + + 
+
+tambahan dari si amed (cuma nyalain env2)
+app-member		|
+app-product		|
+
+== 2017.05.19 ==
+static			2017051901
+dubbo-schedule	+
+dubbo-platform	+ 
+op 				+ + + + |
+mainsite 		+ + + + |
+member 			+ + + + |
+mobile 			+ + + + |
+product 		+ + + + |
+merchant 		+ + + + |
+api-seller 		+ + + + |
+
+== 2017.05.22 ==
+mainsite 		+ |
+member 			+ |
+
+== 2017.05.24 ==
+dubbo-scheduller	+
+mainsite 			+ + + + |
+member 				+ + + + |
+product 			+ + + + |
+trade 				+ + + + |
+mobile 				+ + + + |
+merchat 			+ + + + |
+op 					+ + + + |
+api-android 		+ + + + |
+api-seller 			+ + + + |
+
+== 2017.05.29 ==
+dubbo-platform		+ +
+dubbo-product		+ +
+dubbo-trade			+ +
+
+dubbo-schedule 		+
+
+static				2017052901 2017052902 2017052903
+op					+ + + + |
+mainsite 			+ + + + |
+member 				+ + + + |
+mobile 				+ + + + |
+product 			+ + + + |
+trade 				+ + + + |
+merchant 			+ + + + |
+api-android 		+ + + + |
+api-seller 			+ + + + |
+
+== 2017.05.30 ==
+static				2017053001
+dubbo-trade			+ *
+mainsite 			+ + + +
+trade 				+ + + + |
+
+== 2017.05.31 ==
+dubbo-schedule 		+ |
+static				2017053101
+mainsite 			+ + + + |
+member 				+ + + + |
+mobile 				+ + + + |
+product 			+ + + + |
+trade 				+ + + + |
+
+== 2017.06.02 ==
+static 				2017060201	2017060202
+trade 				+ + + + |
+mobile 				+ + + + |
+api-android 		+ + + + |
+op 					+ + + + |
+
+== 2017.06.05 ==
+static				2017060501
+op 					+ + + + |
+
+== 2017.06.06 ==
+dubbo-platform		+
+dubbo-trade			+ +
+dubbo-product		+ +
+
+static				2017060601	2017060602
+op 					+ + + + |
+product 			+ + + + |
+mobile 				+ + + + |
+api-android 		+ + + + |
+mainsite 			+ + + + |
+merchant 			+ + + + |
+trade 				+ + + + |
+
+== 2017.06.07 ==
+static				2017060701
+merchant 			+ + + + |
+
+== 2017.06.09 ==
+static				2017060901	2017060902	2017060903	2017060904
+dubbo-member 		+ +
+dubbo-trade 		+ +
+dubbo-schedule 		+
+op 					+ + + + |
+mainsite 			+ + + + - + + + + |
+member 				+ + + + |
+mobile 				+ + + + - + + + + |
+product 			+ + + + |
+trade 				+ + + + |
+merchant 			+ + + + |
+api-android 		+ + + + |
+api-seller 			+ + + + |
+
+== 2017.06.12 ==
+static				2017061201
+dubbo-trade 		+ +
+mainsite 			+ + + + |
+mobile 				+ + + + |
+api-android 		+ + + + |
+
+== 2017.06.14 ==
+dubbo-schedule 		+
+dubbo-trade			+ +
+mainsite 			+ + + + |
+
+== 2017.06.15 ==	
+dubbo-schedule 		+
+dubbo-product 		+ +
+dubbo-trade 		+ +
+static 				2017061501
+mainsite 			+ + + + |
+mobile 				+ + + + |
+member 				+ + + + |
+product 			+ + + + |
+mobile-api 			+ + + + |
+
+== 2017.06.16 ==
+op 					+ + + + |
+merchanttools 		+ + + + |
+trade 				+ + + + |
+member 				+ + + + |
+mobile 				+ + + + |
+
+== 2017.06.19 ==
+static 				2017061901
+mainsite 			+ + + + - + + + + |
+mobile 				+ + + + - + + + + |
+merchant 			+ + + + |
+
+== 2017.06.20 ==
+static 				2017062001
+dubbo-member 		+ +
+member 				+ + + + |
+mobile 				+ + + + | + + + + |
+op 					+ + + + |
+mobile-api 			+ + + + |
+cbt-api
+mainsite 			+ + + + |
+merchant 			+ + + + |
+
+== 2017.07.03 ==
+dubbo trade 		+ + |
+trade 				+ + + + |
+mobile 				+ + + + |
+api-android 		+ + + + |
+
+== 2017.07.04 ==
+static 				2017070401 2017070402
+mainsite 			+ + + + |
+member 				+ + + + |
+mobile 				+ + + + |
+product 			+ + + + |
+trade 				+ + + + |
+merchant 			+ + + + |
+
+== 2017.07.06 ==
+api-android 		+ + + + |
+
+== 2017.07.07 ==
+static 				2017070702
+dubbo-platform 		+ +
+dubbo-product 		+ +
+mobile 				+ + + + | + + + + |
+mainsite 			+ + + + | + + + + |
+static 				+ + + + |
+op 					+ + + + |
+member 				+ + + + |
+product 			+ + + + |
+
+== 2017.07.10 ==
+member 				+ + + + |
+
+== 2017.07.13 ==
+static				2017071301
+dubbo-product 		+ +
+op 					+ + + +
+member 				+ + + +
+product 			+ + + +
+mobile 				+ + + +
+
+== 2017.07.14 ==
+static				2017071401
+dubbo-platform 		+ +
+dubbo-trade 		+ +
+dubbo-schedule 		+
+op					+ + + +
+member 				+ + + +
+merchant 			+ + + +
+mobile 				+ + + +
+
+== 2017.07.17 ==
+op					+ + + +
+
+== 2017.07.18 ==
+static 				2017071801	2017071802
+mainsite 			+ + + +
+mobile 				+ + + +
+member 				+ + + +
+
+== 2017.07.19 ==
+static 				2017071901	2017071902	2017071903
+mainsite 			+ + + +
+mobile 				+ + + +
+member 				+ + + +
+
+static 				2017071904
+dubbo-schedule 		+ 
+dubbo-platform 		+ +
+op 					+ + + +
+member 				+ + + +
+mobile 				+ + + +
+merchanttools 		+ + + +
+
+== 2017.07.20 ==
+static				2017072001	2017072002
+dubbo-schedule 		+
+dubbo-platform		+ +
+member 				+ + + +
+op 					+ + + +
+mobile 				+ + + +
+merchanttools 		+ + + +
+
+== 2017.07.21 ==
+static				2017072101	2017072102
+dubbo-schedule 		+
+dubbo-trade 		+ +
+trade 				+ + + +
+mainsite 			+ + + + | + + + +
+mobile 				+ + + + | + + + +
+member 				+ + + +
+merchant 			+ + + +
+
+== 2017.07.24 ==
+static 				2017072401	2017072402
+dubbo-trade 		+ + | + +
+op 					+ + + +
+member 				+ + + +
+trade 				+ + + +
+mobile 				+ + + +
+
+== 2017.07.25 ==
+static 				2017072501	2017072502	2017072503
+dubbo-platform		+ + | + +
+dubbo-member 		+ +
+mainsite 			+ + + + | + + + +
+member 				+ + + + | + + + +
+mobile 				+ + + + | + + + +
+product 			+ + + +
+trade 				+ + + +
+merchant 			+ + + +
+
+== 2017.07.27 ==
+product 			+ + + +
+mobile 				+ + + + | + + + +
+app-android 		+ + + + | + + + +
+op 					+ + + + 
+merchant 			+ + + +
+
+== 2017.07.31 ==
+dubbo-trade 		+ +
+
+== 2017.08.01 ==
+dubbo-member 		+ +
+dubbo-product 		+ +
+static 				2017080101	2017080102	2017080103
+mainsite 			+ + + +
+op 					+ + + +
+member 				+ + + +
+mobile 				+ + + +
+merchant 			+ + + +
+trade 				+ + + +
+product 			+ + + +
+api-android 		+ + + + | + + + +
+
+== 2017.08.02 ==
+static 				2017080201
+op 					+ + + +
+member 				+ + + +
+merchant 			+ + + +
+mobile 				+ + + +
+
+== 2017.08.03 ==
+static 				2017080301	2017080302
+mainsite 			+ + + +
+mobile 				+ + + +
+api-android 		+ + + +
+
+== 2017.08.04 ==
+static 				2017080401	2017080402
+mainsite 			+ + + +
+mobile 				+ + + +
+
+== 2017.08.07 ==
+dubbo-platfrom 		+ +
+dubbo-member 		+ +
+dubbo-product 		+ +
+dubbo-trade 		+ +
+static 				2017080701	2017080702
+op 					+ + + +
+merchant 			+ + + +
+mainsite 			+ + + +
+member 				+ + + +
+product 			+ + + +
+trade 				+ + + +
+mobile 				+ + + +
+
+== 2017.08.08 ==
+dubbo-schedule 		+
+dubbo-platform 		+ +
+
+== 2017.08.09 ==
+static 				2017080901
+dubbo-schedule 		+
+member 				+ + + + 
+merchant 			+ + + +
+
+== 	2017.08.14 ==
+dubbo-product 		+ +
+dubbo-trade 		+ +
+dubbo-platform 		+ +
+static 				2017081401	2017081402
+mainsite 			+ + + +
+member 				+ + + +
+product 			+ + + +
+trade 				+ + + +
+mobile 				+ + + +
+op 					+ + + +
+merchant 			+ + + +
+api-android 		+ + + +
+
+member 				+ + + +
+product 			+ + + +
+merchant 			+ + + +
+op 					+ + + +
+mobile 				+ + + +
+
+== 2017.08.16 ==
+dubbo-platform 		+ +
+static 				20170811601	2017081602
+trade 				+
+merchant 			+
+api-android 		+
+
+mainsite 			+ + + +
+member 				+ + + +
+product 			+ + + +
+trade 				+ + + +
+merchant 			+ + + +
+mobile 				+ + + +
+api-android 		+ + + +
+
+== 2017.08.18 ==
+static 				2017081801
+mainsite 			+ + + +
+merchant 			+ + + +
+
+== 2017.08.21 ==
+dubbo-product 		+ +
+dubbo-trade 		+ +
+static 				2017082101
+mainsite 			+ + + +
+member 				+ + + +
+mobile 				+ + + +
+product 			+ + + +
+trade 				+ + + +
+api-android 		+ + + +
+
+== 2017.08.22 ==
+trade 				+ + + +
+mobile 				+ + + +
+
+static 				2017082201	2017082202	2017082203	2017082204
+mainsite 			+ + + +
+mobile 				+ + + +
+api-android 		+ + + +
+
+product 			+ + + +
+merchant 			+ + + +
+mobile 				+ + + +
+dubbo-trade 		+ +
+
+== 2017.08.24 ==
+dubbo-platform 		+ +
+dubbo-member 		+ +
+dubbo-product 		+ +
+dubbo-trade 		+ +
+dubbo-schedule 		+
+static 				2017082401	2017082402
+api-seller 			+ + + +
+api-android 		+ + + +
+livechat 			+ + + +
+member 				+ + + +
+merchant 			+ + + +
+mobile 				+ + + +
+op 					+ + + +
+product 			+ + + +
+trade 				+ + + +
+
+member 				+ + + +
+mobile 				+ + + +
+merchant 			+ + + +
+product 			+ + + +
+op 					+ + + +
+api-android 		+ + + +
+dubbo-trade 		+ +
+
+== 2018.08.25 ==
+dubbo-trade 		+ +
+dubbo-member 		+ +
+mobile 				+ + + +
+op 					+
+mainsite 			+
+
+== 2017.08.28 ==
+op 					+ + + +
+merchant 			+ + + +
+
+== 2017.08.29 ==
+static 				2017082901	2017082902	2017082903	2017082904	2017082905	2017082906
+dubbo-platform 		+ +
+dubbo-trade 		+ +
+dubbo-member 		+ +
+dubbo-schedule 		+
+member 				+ + + +
+mobile 				+ + + +
+merchant 			+ + + +
+op 					+ + + +
+
+== 2017.08.30 ==
+dubbo-trade 		+ +
+static 				2017083001
+mainsite 			+ | +
+member 				+ | +
+product 			+ | +
+trade 				+ | +
+mobile 				+ | +
+merchant 			+ | +
+op 					+ | +
+api-seller 			+ | +
+api-android 		+ + + +
+
+== 2017.08.31 ==
+product 			+ + + | di rollback ke tanggal 30
+mainsite 			+ + + | 
+member 				+ + + |
+trade 				+ + + |
+mobile 				+ + + |
+merchant 			+ + | + + + +
+op 					+ + | + + + +
+api-seller 			+ + | + + + +
+
+== 2017.09.04 ==
+dubbo-platform 		+ +
+static 				2017090401	2017090402
+mainsite 			+ + + +
+member 				+ + + +
+product 			+ + + +
+trade 				+ + + +
+merchant 			+ + + +
+op 					+ + + +
+mobile 				+ + + +
+api-seller 			+ + + +
+api-android 		+ + + +
+
+member 				+ + + +
+product 			+ + + +
+trade 				+ + + +
+mobile 				+ + + +
+
+== 2017.09.05 ==
+dubbo-platform 		+ +
+static 				2017090501
+mainsite 			+ + + +
+member 				+ + + +
+product 			+ + + +
+trade 				+ + + +
+merchant 			+ + + +
+op 					+ + + +
+mobile 				+ + + +
+api-seller 			+ + + +
+api-android 		+ + + +
+
+== 2017.09.06 ==
+static 				2017090601
+mainsite 			+ + + +
+member 				+ + + +
+product 			+ + + +
+trade 				+ + + +
+mobile 				+ + + +
+merchant 			+ + + +
+
+== 2017.09.07 ==
+static 				2017090701
+product 			+ + + +
+
+== 2017.09.10 ==
+mainsite 			+ + + +
+mobile 				+ + + +
+
+== 2017.09.11 ==
+dubbo-trade 		+ +
+static 				2017091101
+mobile 				+ + + +
+mainsite 			+ + + +
+
+== 2017.09.12 ==
+static 				+
+mainsite 			+ + + +
+
+== 2017.09.13 ==
+dubbo-member 		+ +
+dubbo-trade 		+ +
+dubbo-product 		+ +
+dubbo-platform 		+ +
+static 				2017091301
+op 					+ + + +
+merchant 			+ + + +
+mobile 				+ + + +
+trade 				+ + + +
+
+== 2017.09.14 ==
+static 				2017091401
+member 				+ + + +
+mobile 				+ + + +
+merchant 			+ + + +
+op 					+ + + +
+mainsite 			+ + + +
+
+== 2017.09.15 ==
+dubbo-member 		+ +
+dubbo-platform 		+ +
+dubbo-product 		+ +
+dubbo-trade 		+ +
+dubbo-schedule 		+
+static 				2017091501
+op 					+ + + +
+mainsite 			+ + + +
+member 				+ + + +
+mobile 				+ + + +
+product 			+ + + +
+trade 				+ + + +
+merchant 			+ + + +
+mobile-api 			+ + + +
+
+== 2017.09.18 ==
+static 				2017091801	2017091802
+op 					+ + + +
+member 				+ + + +
+product 			+ + + +
+mobile 				+ + + +
+mainsite 			+ + + +
+
+== 2017.09.19 ==
+dubbo-trade 		+ +
+static 				2017091901
+trade 				+ + + +
+member 				+ + + +
+mainsite 			+ + + +
+mobile 				+ + + +
+
+== 2017.09.20 ==
+static 				2017092001
+mainsite 			+ + + +
+product 			+ + + +
+
+== 2017.09.22 ==
+dubbo-platform 		+ +
+dubbo-product 		+ +
+dubbo-trade 		+ +
+dubbo-schedule 		+
+static 				2017092201	2017092202	
+op 					+ + + +
+mainsite 			+ + + +
+merchant 			+ + + +
+member 				+ + + +
+product 			+ + + +
+trade 				+ + + +
+mobile 				+ + + +
+
+== 2017.09.25 ==
+dubbo-schedule 		+
+dubbo-trade 		+ +
+dubbo-platform 		+ +
+dubbo-member 		+ +
+static 				2017092501	2017092502	2017092503	2017092504	2017092505
+op 					+ + + +
+mainsite 			+ + + +
+member 				+ + + +
+product 			+ + + +
+mobile 				+ + + +
+trade 				+ + + +
+merchant 			+ + + +
+api-android 		+ + + +
+api-seller 			+ + + +
+
+== 2017.09.26 ==
+mainsite 			+ + + +
+product 			+ + + +
+op 					+ + + +
+
+== 2017.09.27 ==
+trade 				+ + + +
+mobile 				+ + + +
+
+== 2017.09.28 ==
+dubbo-schedule 		+
+dubbo-platfom 		+ +
+dubbo-trade 		+ +
+static 				2017092801
+mobile 				+ + + +
+trade 				+ + + +
+
+== 2017.09.29 ==
+dubbo-member 		+ +
+member 				+ + + +
+mainsite 			+ + + +
+mobile 				+ + + +
+trade 				+ + + +
+op 					+ + + +
+
+== 2017.09.30 ==
+dubbo-trade 		restart
+trade 				restart
+mobile 				restart
+merchant 			restart
+api-android 		restart
+scheduler 			restart
+
+dubbo-trade 		+ +
+static 				2017100101	2017100102	2017100103
+op 					+ + + +
+mainsite 			+ + + +
+member 				+ + + +
+mobile 				+ + + +
+product 			+ + + +
+trade 				+ + + +
+
+== 2017.10.02 ==
+dubbo-trade 		+ +
+static 				2017100201	2017100202
+trade 				+ + + +
+op 					+ + + +
+mobile 				+ + + +
+member 				+ + + +
+
+== 2017.10.03 ==
+dubbo-schedule 		+
+dubbo-trade 		+ +
+static 				2017100301
+op 					+ + + +
+mainsite 			+ + + +
+member 				+ + + +
+product 			+ + + +
+merchant 			+ + + +
+trade 				+ + + +
+api-android 		+ + + +
+api-seller 			+ + + +
+
+== 2017.10.04 ==
+dubbo-schedule 		+
+dubbo-trade 		+ +
+dubbo-member 		+ +
+dubbo-platform 		+ +
+static 				2017100401
+op 					+ + + +
+merchant 			+ + + +
+trade 				+ + + +
+mobile 				+ + + +
+open-api 			+
+merchant 			+ + + +
+
+== 2017.10.05 ==
+dubbo-schedule 		+
+dubbo-member 		+ +
+dubbo-platform 		+ +
+dubbo-product 		+ +
+dubbo-trade 		+ +
+static 				2017100501	2017100502	2017100503	2017100504	2017100505
+mainsite 			+ + + +
+op 					+ + + +
+member 				+ + + +
+trade 				+ + + +
+product 			+ + + +
+mobile 				+ + + +
+merchant 			+ + + +
+api-android 		+ + + +
+
+== 2017.10.06 ==
+static 				2017100601	2017100602	2017100603
+trade 				+ + + +
+member 				+ + + +
+product 			+ + + +
+mobile 				+ + + +
+
+== 2017.10.09 ==
+static 				2017100901
+maisite 			+ + + + 
+member 				+ + + +
+product 			+ + + +
+trade 				+ + + +
+op 					+ + + +
+api-android 		+ + + +
+
+== 2017.10.10 ==
+dubbo-trade 		+ +
+dubbo-platform 		+ +
+dubbo-member 		+ +
+dubbo-product 		+ +
+static 				2017101001
+member 				+ + + +
+merchant 			+ + + +
+op 					+ + + +
+appi-seller 		+ + + +
+
+== 2017.10.11 ==
+dubbo-member 		+ +
+static 				2017101101	2017101102
+op 					+ + + +
+openapi 			+
+
+== 2017.10.12 ==
+dubbo-trade 		+ +
+dubbo-schedule 		+
+api-android 		+ + + +
+
+== 2017.10.16 ==
+dubbo-member 		+ +
+dubbo-trade 		+ +
+static 				2017101301
+mobile 				+ + + +
+trade 				+ + + +
+merchant 			+ + + +
+op 					+ + + +
+api-android 		+ + + +
+
+== 2017.10.16 ==
+dubbo-product 		+ +
+dubbo-trade 		+ +
+static 				2017101601
+op 					+ + + +
+member 				+ + + +
+api-android 		+ + + +
+
+== 2017.10.17 ==
+dubbo-trade 		+ +
+dubbo-platform 		+ +_
+static 				2017101701
+trade 				+ + + +
+mobile 				+ + + +
+member 				+ + + +
+merchant 			+ + + +
+mainsite 			+
+
+== 2017.10.18 ==
+dubbo-member 		+ +
+static 				2017101801	2017101802
+mainsite 			+ + + +
+member 				+ + + +
+product 			+ + + +
+mobile 				+ + + +
+op 					+ + + +
+
+== 2017.10.19 ==
+dubbo-schedule 		+
+dubbo-trade 		+ +
+api-android 		+ + + +
+op 					+ + + +
+trade 				+ + + +
+mobile 				+ + + +
+
+== 2017.10.20 ==
+dubbo-trade 		+ +
+dubbo-product 		+ +
+static 				2017102001	2017102002	2017102003
+op 					+ + + +
+merchant 			+ + + +
+member 				+ + + +
+product 			+ + + +
+trade 				+ + + +
+mobile 				+ + + +
+
+
+== 2017.10.23 ==
+static 				2017102301	2017102302
+mainsite 			+ + + +
+mobile 				+ + + +
+member 				+ + + +
+trade 				+ + + +
+mobile 				+ + + +
+
+== 2017.10.24 ==
+dubbo-member 		+ +
+dubbo-product 		+ +
+dubbo-trade 		+ +
+static 				2017102401	2017102402
+mainsite 			+ + + +
+op 					+ + + +
+mobile 				+ + + +
+trade 				+ + + +
+api-android 		+ + + +
+api-seller 			+ + + +
+
+== 2017.10.25 ==
+trade 				+
+merchant 			+
+
+== 2017.10.26 ==
+dubbo-member 		+ +
+dubbo-product 		+ +
+dubbo-trade 		+ +
+static 				2017102601
+op 					+ + + +
+member 				+ + + +
+trade 				+ + + +
+merchant 			+ + + +
+mobile 				+ + + +
+api-android 		+ + + +
+
+== 2017.10.27 ==
+dubbo-schedule 		+
+dubbo-platform 		+ +
+static 				2017102701
+mainsite 			+ + + +
+mobile 				+ + + +
+
+== 2017.10.30 ==
+trade 				+ + + +
+mobile 				+ + + +
+api-android 		+ + + +
+
+== 2017.10.31 ==
+dubbo-product 		+ +
+static 				2017103101
+trade 				+ + + +
+mobile 				+ + + +
+api-android 		+ + + +
+merchant 			+ + + +
+
+== 2017.11.01 ==
+dubbo-trade 		+ +
+dubbo-platform 		+ +
+static 				2017110101	2017110102	2017110103	2017110104
+mainsite 			+ + + +
+trade 				+ + + +
+mobile 				+ + + +
+merchant 			+ + + +
+
+== 2017.11.06 ==
+dubbo-trade 		+ +
+dubbo-product 		+ +
+dubbo-platform 		+ +
+dubbo-schedule 		+
+static 				2017110601
+mainsite 			+ + + +
+member 				+ + + +
+trade 				+ + + +
+product 			+ + + +
+merchant 			+ + + +
+mobile 				+ + + +
+op 					+ + + +
+
+== 2017.11.07 ==
+dubbo-trade 		+ +
+dubbo-member 		+ +
+dubbo-product		+ +
+static 				2017110701	2017110702
+op 					+ + + +
+mobile 				+ + + +
+member 				+ + + +
+trade 				+ + + +
+product 			+ + + +
+mobile-android 		+ + + +
+
+== 2017.11.08 ==
+static 				2017110801	2017110802
+mainsite 			+ + + +
+member 				+ + + +
+merchant 			+ + + +
+mobile 				+ + + +
+api-android 		+ + + +
+
+== 2017.11.09 ==
+dubbo-trade 		+ +
+mainsite 			+ + + +
+product 			+ + + +
+mobile 				+ + + +
+op 					+ + + +
+member 				+ + + +
+
+== 2017.11.10 ==
+dubbo-trade 		+ +
+dubbo-member 		+ +
+dubbo-platform 		+ +
+static 				2017111001
+product 			+ + + +
+trade 				+ + + +
+member 				+ + + +
+mobile 				+ + + +
+api-android 		+ + + +
+
+== 2017.11.13 ==
+dubbo-platform 		+ +
+dubbo-product 		+ +
+dubbo-member 		+ +
+dubbo-trade 		+ +
+static 				2017111301
+op 					+ + + +
+mainsite 			+ + + +
+mobile 				+ + + +
+member 				+ + + +
+
+== 2017.11.14 ==
+dubbo-member 		+ +
+dubbo-platform 		+ +
+dubbo-product 		+ +
+static 				2017111401	2017111402
+member 				+ + + +
+op 					+ + + +
+merchant 			+ + + +
+
+== 2017.11.15 ==
+dubbo-schedule 		+
+dubbo-platform 		+ +
+dubbo-product 		+ +
+dubbo-trade 		+ +
+dubbo-member 		+ +
+static 				2017111501	2017111502	2017111503
+mainsite 			+ + + +
+mobile 				+ + + +
+trade 				+ + + +
+api-android 		+ + + +
+
+== 2017.11.16 ==
+static 				2017111601
+
+== 2017.11.17 ==
+dubbo-platform 		+ +
+static 				2017111701	2017111702
+mainsite 			+ + + +
+member 				+ + + +
+mobile 				+ + + +
+op 					+ + + +
+trade 				+ + + +
+api-android 		+ + + +
+
+== 2017.11.21 ==
+dubbo-schedule 		+
+dubbo-product 		+ +
+dubbo-platform 		+ +
+dubbo-trade 		+ +
+static 				2017112101	2017112102
+op 					+ + + +
+mainsite 			+ + + +
+mobile 				+ + + +
+api-seller 			+ + + +
+
+== 2017.11.22 ==
+dubbo-platform 		+ +
+dubbo-member 		+ +
+dubbo-product 		+ +
+dubbo-trade 		+ +
+static 				2017112201
+mainsite 			+ + + +
+mobile 				+ + + +
+trade 				+ + + +
+merchant 			+ + + +
+member 				+ + + +
+api-android 		+ + + +
+
+== 2017.11.23 ==
+merchant 			+ + + +
+member 				+ + + +
+mobile 				+ + + +
+trade 				+ + + +
+api-android 		+ + + +
+
+== 2017.11.24 ==
+dubbo-platform 		+ +
+dubbo-product 		+ +
+dubbo-trade 		+ +
+static 				2017112401
+member 				+ + + +
+mobile 				+ + + +
+trade 				+ + + +
+api-android 		+ + + +
+
+== 2017.27.11 ==
+dubbo-schedule 		+
+dubbo-platform 		+ +
+static 				2017112701
+mainsite 			+
+mobile 				+
+trade 				+ + + +
+op 					+ + + +
+merchant 			+ + + +
+
+== 2017.11.28 ==
+dubbo-member 		+ +
+static 				2017112801
+member 				+ + + +
+trade 				+ + + +
+
+== 2017.11.29 ==
+member 				+ + + +
+
+== 2017.12.01 ==
+member 				+ + + +
+
+== 2017.11.04 ==
+dubbo-schedule 		+
+dubbo-trade 		+ +
+dubbo-platform 		+ +
+dubbo-member 		+ +
+static 				2017120401
+merchant 			+ + + +
+trade 				+ + + +
+product 			+ + + +
+mobile 				+ + + +
+member 				+ + + +
+op 					+ + + +
+api-android 		+ + + +
+
+== 2017.12.05 ==
+dubbo-platform 		+ +
+dubbo-trade 		+ +
+static 				2017120501	2017120502
+merchant 			+ + + +
+trade 				+ + + +
+product 			+ + + +
+op 					+ + + +
+member 				+ + + +
+mobile 				+ + + +
+api-android 		+ + + +
+
+== 2017.12.06 ==
+dubbo-trede 		+ +
+static 				2017120601	2017120602
+op 					+ + + +
+trade 				+ + + +
+mobile 				+ + + +
+member 				+ + + +
+merchant 			+ + + +
+
+== 2017.12.07 ==
+dubbo-trade 		+ +
+static 				2017120701	2017120702	2017120703
+op 					+ + + +
+mainsite 			+ + + +
+member 				+ + + +
+product 			+ + + +
+trade 				+ + + +
+mobile 				+ + + +
+merchant 			+ + + +
+api-android 		+ + + +
+
+== 2017.12.08 ==
+dubbo-trade 		+ +
+dubbo-product 		+ +
+dubbo-platform 		+ +
+static 				2017120801	2017120802
+op 					+ + + +
+member 				+ + + +
+merchant 			+ + + +
+mobile 				+ + + +
+product 			+ + + +
+
+== 2017.12.11 ==
+dubbo-trade 		+ +
+static 				2017121101
+op 					+ + + +
+member 				+= + + +
+merchant 			+ + + +
+mobile 				+ + + +
+trade 				+ + + +
+product 			+ + + +
+api-android 		+ + + +
+
+== 2017.12.12 ==
+dubbo-trade 		+ +
+
+== 2017.12.13 ==
+dubbo-trade 		+ +
+op 					+ + + +
+merchant 			+ + + +
+
+== 2017.12.14 ==
+static 				2017121401
+trade 				+ + + +
+mobile 				+ + + +
+api-android 		+ + + +
+
+== 2017.12.15 ==
+op 					+ + + +
+
+== 2017.12.18 ==
+dubbo-trade 		+ +
+dubbo-platform 		+ +
+static 				2017121801
+api-seller 			+ + + +
+mainsite 			+ + + +
+product 			+ + + +
+trade 				+ + + +
+member 				+ + + +
+mobile 				+ + + +
+merchant 			+ + + +
+op 					+ + + +
+
+== 2017.12.19 ==
+dubbo-trade 		+ +
+static 				2017121901
+mainsite 			+ + + +
+mobile 				+ + + +
+member 				+ + + +
+merchant 			+ + + +
+trade 				+ + + +
+op 					+ + + +
+
+== 2017.12.20 ==
+dubbo-trade 		+ +
+dubbo-platform 		+ +
+dubbo-product 		+ +
+static 				2017122001
+mainsite 			+ + + + 
+member 				+ + + +
+mobile 				+ + + +
+product 			+ + + +
+api-android 		+ + + +
+
+== 2017.12.21 ==
+member 				+ + + +
+merchant 			+ + + +
+mobile 				+ + + +
+op 					+ + + +
+
+===================================================
+
+== 2018.01.02 ==
+dubbo-trade 		+ +
+dubbo-platform 		+ +
+
+== 2018.01.04 ==
+dubbo-platform 		+ +
+static 				2018010401	2018010402
+op 					+ + + +
+mainsite 			+ + + +
+member 				+ + + +
+mobile 				+ + + +
+product 			+ + + +
+trade 				+ + + +
+merchant 			+ + + +
+
+== 2018.01.05 ==
+dubbo-scheduler 	+
+static 				2018010501
+mobile 				+ + + +
+
+== 2018.01.09 ==
+dubbo-trade 		+ +
+op 					+ + + +
+member 				+ + + +
+mobile 				+ + + +
+trade 				+ + + +
+merchant 			+ + + +
+api-android 		+ + + +
+product 			+
+
+== 2018.01.10 ==
+dubbo-trade 		+ +
+dubbo-product 		+ +
+dubbo-member 		+ +
+static 				2018011001
+op 					+ + + +
+member 				+ + + +
+merchant 			+ + + +
+mobile 				+ + + +
+trade 				+ + + +
+product 			+ + + +
+open-api 			+ + + +
+api-android 		+ + + +
+api-seller 			+ + + +
+
+== 2018.01.11 ==
+dubbo-trade 		+ +
+static 				2018011101
+mobile 				+ + + +
+merchant 			+ + + +
+api-seller 			+ + + +
+
+== 2018.01.12 ==
+static 				2018011201
+api-android 		+ + + +
+trade 				+ + + +
+
+== 2018.01.15 ==
+trade 				+ + + +
+op 					+ + + +
+merchant 			+ + + +
+member 				+ + + +
+mobile 				+ + + +
+api-android 		+ + + +
+
+== 2018.01.16 ==
+static 				2018011601	2018011602
+trade 				+ + + +
+mobile 				+ + + +
+api-android 		+ + + +
+
+== 2018.01.17 ==
+dubbo-platform 		+ +
+static 				2018011701
+op 					+ + + +
+member 				+ + + +
+merchant 			+ + + +
+
+== 2018.01.18 ==
+dubbo-trade 		+ +
+dubbo-member 		+ +
+mainsite 			+ + + +
+mobile 				+ + + +
+trade 				+ + + +
+member 				+ + + +
+merchant 			+ + + +
+
+== 2018.01.19 ==
+dubbo-trade 		+ +
+static 				2018011901
+merchant 			+ + + +
+api-seller 			+ + + +
+
+== 2018.01.22 ==
+dubbo-member 		+ +
+dubbo-trade 		+ +
+static 				2018012201	2018012202
+op 					+ + + +
+member 				+ + + +
+merchant 			+ + + +
+trade 				+ + + +
+mobile 				+ + + +
+api-android 		+ + + +
+
+== 2018.01.23 ==
+dubbo-schedule 		+
+dubbo-platform 		+ +
+dubbo-product 		+ +
+dubbo-trade 		+ +
+static 				2018012301
+op 					+ + + +
+member 				+ + + +
+merchant 			+ + + +
+product 			+ + + +
+trade 				+ + + +
+mobile 				+ + + +
+api-android 		+ + + +
+
+== 2018.01.25 ==
+dubbo-trade 		+ +
+static 				2018012501
+mainsite 			+ + + +
+member 				+ + + +
+trade 				+ + + +
+product 			+ + + +
+merchant 			+ + + +
+op 					+ + + +
+mobile 				+ + + +
+
+== 2018.01.26 ==
+static 				2018012601
+
+== 2018.01.29 ==
+dubbo-trade 		+ +
+static 				2018012901
+mainsite 			+ + + +
+mobile 				+ + + +
+trade 				+ + + +
+op 					+ + + +
+api-android 		+ + + +
+
+== 2018.01.30 ==
+dubbo-platform 		+ +
+dubbo-trade 		+ +
+static 				2018013001
+op 					+ + + +
+mainsite 			+ + + +
+trade 				+ + + +
+mobile 				+ + + +
+merchant 			+ + + +
+api-android 		+ + + +
+
+== 2018.01.31 ==
+dubbo-trade 		+ +
+static 				2018013101
+op 					+ + + +
+member 				+ + + +
+product 			+ + + +
+trade 				+ + + +
+mobile 				+ + + +
+merchant 			+ + + +
+api-android 		+ + + +
+
+== 2018.02.01 ==
+static 				2018020101
+mainsite 			+ + + +
+mobile 				+ + + +
+
+== 2018.02.02 ==
+static 				2018020201
+
+== 2018.02.05 ==
+static 				2018020501
